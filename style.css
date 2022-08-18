@@ -1204,7 +1204,7 @@ body {
 
 }
 
-.news {
+/* .news {
   display: flex;
   padding-left: 8rem;
   padding-right: 8rem;
@@ -1214,11 +1214,11 @@ body {
 .news a {
   color: white;
   font-size: 1.2rem;
-}
+} */
 
 
 /* design .announcement div and create scroll bar in that */
-.announcement {
+/* .announcement {
   color: hsl(335, 87%, 53%);
   width: 33.33%;
   height: 40rem;
@@ -1228,10 +1228,10 @@ body {
   background-color: rgb(10, 10, 100);
   overflow: hidden;
   overflow-y: scroll;
-}
+} */
 
 /* design all link of announcement */
-.announcementUpdate a {
+/* .announcementUpdate a {
   color: hsl(236, 57%, 28%);
   text-decoration: none;
   text-align: center;
@@ -1259,10 +1259,10 @@ body {
 .carosal h1 {
   padding-top: 0.5rem;
   font-size: 2rem;
-}
+} */
 
 /* set image b/w .announcement and .notice */
-.carosal .mySlides {
+/* .carosal .mySlides {
   padding-top: 5rem;
   padding-left: 5%;
   width: 90%;
@@ -1273,10 +1273,10 @@ body {
   .carosal .mySlides {
     height: 700%;
   }
-}
+} */
 
 /* desugn .notice div and create scroll bar in that */
-.notice {
+/* .notice {
   width: 33.33%;
   height: 40rem;
   background-color: rgb(10, 10, 100);
@@ -1298,26 +1298,26 @@ body {
 
 .noticeUpdate {
   text-align: center;
-}
+} */
 
 /* change scroll bar direvtion left side */
-.notice {
+/* .notice {
   direction: rtl;
-}
+} */
 
 /* give height n width to scroll bar */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 1rem;
   height: 3rem;
-}
+} */
 
 /* blank space of scroll bar */
-::-webkit-scrollbar-track {
+/* ::-webkit-scrollbar-track {
   background-color: rgb(255, 255, 255);
-}
+} */
 
 /* design scroll bar */
-::-webkit-scrollbar-thumb {
+/* ::-webkit-scrollbar-thumb {
   background-color: rgb(255, 255, 255);
   border-radius: 0;
 }
@@ -1628,4 +1628,4 @@ img {
     list-style: none;
     padding: 10px 0;
     border-bottom: 1px solid #fff;
-}
+} */
